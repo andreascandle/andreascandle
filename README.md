@@ -9,7 +9,7 @@ I am an enthusiastic and dedicated IT Engineer with a passion for programming an
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/andreascandle/andreascandle/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/andreascandle/output/snake.svg" alt="Snake animation" />
 </p>
 
 # 💻 Tech Stack:
